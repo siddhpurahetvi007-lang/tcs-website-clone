@@ -25,8 +25,6 @@ The main goal was to practice **pure HTML and CSS** by focusing on structure, st
 
 ## 📸 Screenshots
 
-_Add your screenshots here_
-
 (screenshots/<img width="1470" height="956" alt="landingpage" src="https://github.com/user-attachments/assets/adf7f0de-285e-4e30-af1c-ac3d12092df7" />
 )
 (screenshots/<img width="1470" height="833" alt="cards" src="https://github.com/user-attachments/assets/8ab90ffa-570c-4997-9d0b-85053c2bff46" />
@@ -50,19 +48,18 @@ https://github.com/siddhpurahetvi007-lang/tcs-website-clone.git
 -video for landing page
 -fonts
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 - Strong understanding of HTML structure and semantics  
 - Improved CSS skills (Flexbox, Grid, positioning)  
 - Experience in replicating real-world website designs  
 - Attention to detail in UI/UX implementation  
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This project is created for **educational purposes only**.  
 All rights and design credits belong to Tata Consultancy Services (TCS).
 
 ## 📬 Connect with Me
 
-- LinkedIn: https://linkedin.com/in/your-profile  
-- GitHub: https://github.com/your-username
+- LinkedIn: https://www.linkedin.com/in/hetvi-siddhpura-264339389/
