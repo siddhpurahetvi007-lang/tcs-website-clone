@@ -38,9 +38,9 @@ _Add your screenshots here_
 
 ## 🔗 Live Demo
 
-_Add your GitHub Pages link here_
+https://siddhpurahetvi007-lang.github.io/tcs-website-clone/
 
-https://your-username.github.io/tcs-clone/
+https://github.com/siddhpurahetvi007-lang/tcs-website-clone.git
 
 ## 📂 Project Structure
 
